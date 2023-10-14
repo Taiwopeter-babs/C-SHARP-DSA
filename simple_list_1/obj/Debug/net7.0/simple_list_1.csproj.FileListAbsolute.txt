@@ -1,0 +1,14 @@
+C:\Users\INVENTAR\Desktop\C-SHARP-DSA\simple_list_1\bin\Debug\net7.0\simple_list_1.exe
+C:\Users\INVENTAR\Desktop\C-SHARP-DSA\simple_list_1\bin\Debug\net7.0\simple_list_1.deps.json
+C:\Users\INVENTAR\Desktop\C-SHARP-DSA\simple_list_1\bin\Debug\net7.0\simple_list_1.runtimeconfig.json
+C:\Users\INVENTAR\Desktop\C-SHARP-DSA\simple_list_1\bin\Debug\net7.0\simple_list_1.dll
+C:\Users\INVENTAR\Desktop\C-SHARP-DSA\simple_list_1\bin\Debug\net7.0\simple_list_1.pdb
+C:\Users\INVENTAR\Desktop\C-SHARP-DSA\simple_list_1\obj\Debug\net7.0\simple_list_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INVENTAR\Desktop\C-SHARP-DSA\simple_list_1\obj\Debug\net7.0\simple_list_1.AssemblyInfoInputs.cache
+C:\Users\INVENTAR\Desktop\C-SHARP-DSA\simple_list_1\obj\Debug\net7.0\simple_list_1.AssemblyInfo.cs
+C:\Users\INVENTAR\Desktop\C-SHARP-DSA\simple_list_1\obj\Debug\net7.0\simple_list_1.csproj.CoreCompileInputs.cache
+C:\Users\INVENTAR\Desktop\C-SHARP-DSA\simple_list_1\obj\Debug\net7.0\simple_list_1.dll
+C:\Users\INVENTAR\Desktop\C-SHARP-DSA\simple_list_1\obj\Debug\net7.0\refint\simple_list_1.dll
+C:\Users\INVENTAR\Desktop\C-SHARP-DSA\simple_list_1\obj\Debug\net7.0\simple_list_1.pdb
+C:\Users\INVENTAR\Desktop\C-SHARP-DSA\simple_list_1\obj\Debug\net7.0\simple_list_1.genruntimeconfig.cache
+C:\Users\INVENTAR\Desktop\C-SHARP-DSA\simple_list_1\obj\Debug\net7.0\ref\simple_list_1.dll
